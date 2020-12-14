@@ -1,23 +1,25 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: BiePin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# 李 轲
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="biepin@outlook.com">My Email</a>
+| <a href="http://biepin.top">biepin.top</a>
+| <a href="17726053190">17726053190</a>
 </div>
 
 
-## Currently
+## 工作状态
 
-Standing on the shoulders of giants
+北京在职：北京云庐科技有限公司
 
-### Specialized in
+职位：系统架构部，Java工程师
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### 技能
+
+1.基础Java语法，
 
 
 ### Research interests
@@ -25,67 +27,22 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## 学历 
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2020`
+__河北工业大学 信息与计算科学专业 （数学/计算机 学位）__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## 工作经验
 
-- Sizar
+`2020.05 - 至今`
+北京云庐科技, *Java工程师*, 北京
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### 项目经验
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 12 2020 -->
 
 
