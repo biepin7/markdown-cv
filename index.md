@@ -5,7 +5,7 @@ title: BiePin's CV
 # 李 轲
 
 <div id="webaddress">
-<a href="biepin@outlook.com">My Email</a>
+<a href="biepin@outlook.com">biepin@outlook.com</a>
 | <a href="http://biepin.top">biepin.top</a>
 | <a href="17726053190">17726053190</a>
 </div>
