@@ -2,22 +2,24 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# 李 轲
+现任北京云庐科技Java工程师.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="biepin@outlook.com">My Email</a>
+| <a href="http://biepin.top">My Homepage</a>
 </div>
 
 
-## Currently
+## 工作状态
 
-Standing on the shoulders of giants
+北京在职：北京云庐科技有限公司
 
-### Specialized in
+职位：系统架构部，Java工程师
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### 技能
+
+1.基础Java语法，
 
 
 ### Research interests
@@ -27,20 +29,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2015-2020`
+__河北工业大学 信息与计算科学专业 （数学/计算机 学位）__
 
 ## Awards
 
