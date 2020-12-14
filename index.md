@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: BiePin's CV
 ---
 # 李 轲
-现任北京云庐科技Java工程师.
 
 <div id="webaddress">
 <a href="biepin@outlook.com">My Email</a>
-| <a href="http://biepin.top">My Homepage</a>
+| <a href="http://biepin.top">biepin.top</a>
+| <a href="17726053190">17726053190</a>
 </div>
 
 
@@ -27,55 +27,22 @@ title: Isaac Newtons's CV
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## 学历 
 
 `2015-2020`
 __河北工业大学 信息与计算科学专业 （数学/计算机 学位）__
 
-## Awards
+## 工作经验
 
-`2012`
-President, *Royal Society*, London, UK
+`2020.05 - 至今`
+北京云庐科技, *Java工程师*, 北京
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### 项目经验
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 12 2020 -->
 
 
