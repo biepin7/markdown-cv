@@ -15,14 +15,14 @@ title: BiePin's CV
 `2015-2020`
 __河北工业大学 信息与计算科学专业 （数学/计算机 学位）__
 
+## 工作技能
 
-
-## 技术栈（常用、熟练）
+### 技术栈（常用、熟练）
  Java ，Sql ， Python ， Java开发框架：Spring，Spring Boot，Mybatis 以及配合插件：MybatisPlus，Swagger， influxDB
 
 
-## 技术栈（用过、了解）
-python数据处理，深度学习基础 ，Unity ，Vue ，Tableau ， Matlab ，SPSS ，C# ，Hadoop 
+### 技术栈（用过、了解）
+python数据处理，深度学习基础 ，Unity ，Vue ，Tableau ， Matlab ，SPSS ，C# ，Hadoop  ，基础PS ，基础微信公众号运营
 
 
 ## 工作经验
