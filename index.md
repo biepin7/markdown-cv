@@ -23,16 +23,16 @@ __河北工业大学 信息与计算科学专业 （数学/计算机 学士学�
 ## 工作技能
 
 ### 技术栈（常用、熟练）
- Java ，Sql ， Python ， Java开发框架：Spring，Spring Boot，Mybatis 以及配合插件：MybatisPlus，Swagger， influxDB
+ Java ;Sql(MySql) ; Python(3.x) ; Java开发框架：Spring Boot,Mybatis 以及配合插件：MybatisPlus,Swagger(以及knife4j);influxDB
 
 
 ### 技术栈（用过、了解）
-python数据基础处理，Unity ，Vue ，Tableau ， Matlab ，SPSS ，C#  
+python数据基础处理，Unity ，Vue ，Tableau ， Matlab ，SPSS ，C# , flask , FastApi 
 
 
 ## 工作经验
 
-`2020.05 - 至今`
+`2020.05 - 2021.01`
 北京云庐科技, *Java工程师*, 北京
 
 ## 项目经验
@@ -41,18 +41,23 @@ python数据基础处理，Unity ，Vue ，Tableau ， Matlab ，SPSS ，C#
 ### kaggle TMDB5000电影数据分析和电影推荐模型 2019.10 - 2019.11
 
  使用 python 数据处理与分析(使用python 的 pandas,numpy,matplotlib )进行基础的数据处理与展示
- 调用 python-spatial 库，构建了简单的电影推荐模型并制作前端页面进行展示
+ 调用 python-spatial 库，构建了简单的电影推荐模型(简单的机器学习KNN算法),并制作前端页面(html)进行展示(echarts)
  
 ### 牛客网实习招聘情况可视化分析 2019.9 - 2019.10
 
- 利用 python 爬虫爬取牛客网上招聘实习信息(使用 python 的Requests库)
- 使用 Hadoop 进行 WordCount聚合招聘岗位，招聘公司，工资薪酬数量，构建简单前端网页通过图表反馈整理的数据信息,分析实习招聘情况
+ 利用 python 爬虫爬取牛客网上招聘实习信息(使用 python 的 Requests库 )
+ 使用 Hadoop 进行 WordCount 聚合招聘岗位，招聘公司，工资薪酬数量，构建简单前端网页通过图表反馈整理的数据信息,分析实习招聘情况
+ 
+ 
+### 深度学习算法：图像风格迁移实现
+
+  使用 Pytorch 实现了简单的图像分类，以及复现了2015年《A Neural Algorithm of Artistic Style》论文中的图像风格迁移算法
 
 
 ### 基础传感器监测平台 2020.7-2020.11
 
  负责公司旧监测平台 sensor-monitor 的日常维护与bug修复
- 负责公司新监测平台项目 haweye 的基础开发工作，负责配置管理，数据管理的功能研发以及公司人工智能算法的调用，以及日常维护与bug修复
+ 负责公司新监测平台项目 haweye 的部分基础开发工作，负责传感器的配置管理，数据管理的功能研发以及公司人工智能算法的调用，负责系统日常维护与bug修复
  
 ### 铁路监测系列项目 2020.11-至今
 
