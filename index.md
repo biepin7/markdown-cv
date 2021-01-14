@@ -8,6 +8,7 @@ title: BiePin's CV
 <a href="biepin@outlook.com">biepin@outlook.com</a>
 | <a href="http://biepin.top">biepin.top</a>
 | <a href="17726053190">17726053190</a>
+| <a href="biepin7@github.com">biepin7@github.com</a>
 </div>
 
 ## 个人情况
