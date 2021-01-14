@@ -28,7 +28,7 @@ __河北工业大学 信息与计算科学专业 （数学/计算机 学士学�
 
 
 ### 技术栈（用过、了解）
-python数据基础处理，Unity ，Vue ，Tableau ， Matlab ，SPSS ，C# , flask , FastApi 
+python数据基础处理，Unity ，Vue ，Tableau ， Matlab ，SPSS ，C# , flask , FastApi ,redis
 
 
 ## 工作经验
